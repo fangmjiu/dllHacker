@@ -1,4 +1,4 @@
-# blackANDwhite
+# dllHacker
 白加黑自动化挖掘，多人运动快人一步
 
 觉得有用的点点start吧
